@@ -90,3 +90,9 @@ The Excel file for LOD/LOQ should contain blank measurements in a single column.
 1. **Check Each Excel File**: Ensure your Excel files are structured as per the examples provided above.
 2. **Run the Script**: Once the files are prepared, import them into the script to perform the different validations.
 3. **Analyze Results**: The script will generate reports detailing the results of the various analyses (linearity, accuracy, repeatability, robustness, exactitude profile, and LOD/LOQ).
+
+
+## Download the Executable
+You can download the compiled executable package (Windows) from the latest release: [Release v1.0.0](https://github.com/samibnz1/Analytical-Method-Validation-Interface/releases/tag/v1.0.0)  
+The release contains a ZIP file (`ValidationTool-v1.0.0.zip`) with the executable, required DLLs, and example datasets. Extract the ZIP file and run `validation_tool.exe` directly.  
+**Note**: Ensure your antivirus is up to date before running the executable. This tool has been developed as part of an academic project at FST Fès and is safe to use, but always exercise caution with executables from the internet.
